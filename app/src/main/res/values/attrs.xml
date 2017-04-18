@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="custom_progress">
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="round_radius" format="dimension"/>
+        <attr name="round_width" format="dimension"/>
+        <attr name="round_default_color" format="color"/>
+        <attr name="round_color" format="color"/>
+        <attr name="progress" format="dimension"/>
+        <attr name="max_progress" format="dimension"/>
+        </declare-styleable>
+</resources>
